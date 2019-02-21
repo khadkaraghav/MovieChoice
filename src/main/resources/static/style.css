@@ -11,3 +11,12 @@
     font-family: Verdana;
 }
 
+.nav-link{
+    display: inline-block;
+    margin: 5px;
+}
+
+.navbar-nav{
+
+    margin:auto;
+}
